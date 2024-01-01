@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @XmxExe
-- ⚡ Im 17 Years Old Developer
-- 👀 I’m interested in C# & Website Programming
-- 🌱 I’m currently learning C#
-- 📫 How to reach me nocsyn7@gmail.com
+- 👋 Hi, I’m @priv8chat
+- ⚡ Im 18 Years Old Developer
+- 👀 I’m interested in C#, Golang & Website Programming
+- 🌱 I’m currently learning C#, Golang, AI
+- 📫 How to reach me @priv8software
 
 <!---
 spammarket/spammarket is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
